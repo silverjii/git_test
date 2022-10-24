@@ -1,3 +1,4 @@
-p{display:block; font-size: 10px; color: brown;}
-span{position: relative; display: block; font-size: 12px; color: aqua;}
+p{display:block; color: brown;font-size: 10px; }
+span{display: block; position: relative; color: aqua; font-size: 11px;}
 .branch-mac-work-2{position: relative;}
+.branch-win-work{display: block;}
